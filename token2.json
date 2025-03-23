@@ -1,0 +1,31 @@
+{
+    "name": "FUCKYOU",
+    "symbol": "FUCK",
+    "description": "When you just don’t care anymore—this is the coin for you!",
+    "image": "https://example.com/fuckit-meme.gif",
+    "attributes": [
+      {
+        "trait_type": "Mood",
+        "value": "Chaotic"
+      },
+      {
+        "trait_type": "Purpose",
+        "value": "None"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://example.com/fuckit-meme.gif",
+          "type": "image/gif"
+        }
+      ],
+      "category": "image",
+      "creators": [
+        {
+          "address": "2bqmN6afLNhC35cqAGFoRgYYB96Kg23vVbE2nxCC5cSm",
+          "share": 100
+        }
+      ]
+    }
+  }
