@@ -1,6 +1,6 @@
 {
-    "name": "FUCKYOU",
-    "symbol": "FUCK",
+    "name": "PALM TREES",
+    "symbol": "PALM",
     "description": "When you just don’t care anymore—this is the coin for you!",
     "image": "https://www.citypng.com/public/uploads/preview/funny-beluga-meme-cat-hd-transparent-background-735811696675541naaswhla0k.png",
     "attributes": [
@@ -23,7 +23,7 @@
       "category": "image",
       "creators": [
         {
-          "address": "9p8ufPUaxZ7HnjSoNFxAMe8g3tskE9YeZCgTFjpqHufA",
+          "address": "HBQCCVAiyahSkSugTdiXwFjEw4oHVambTQjT7Yzp2nPE",
           "share": 100
         }
       ]
