@@ -2,7 +2,7 @@
     "name": "FUCKYOU",
     "symbol": "FUCK",
     "description": "When you just don’t care anymore—this is the coin for you!",
-    "image": "https://example.com/fuckit-meme.gif",
+    "image": "https://www.citypng.com/public/uploads/preview/funny-beluga-meme-cat-hd-transparent-background-735811696675541naaswhla0k.png",
     "attributes": [
       {
         "trait_type": "Mood",
@@ -16,8 +16,8 @@
     "properties": {
       "files": [
         {
-          "uri": "https://example.com/fuckit-meme.gif",
-          "type": "image/gif"
+          "uri": "https://www.citypng.com/public/uploads/preview/funny-beluga-meme-cat-hd-transparent-background-735811696675541naaswhla0k.png",
+          "type": "image/png"
         }
       ],
       "category": "image",
