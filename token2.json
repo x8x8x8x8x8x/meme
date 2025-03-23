@@ -1,31 +1,8 @@
 {
     "name": "PALM TREES",
     "symbol": "PALM",
-    "description": "When you just don’t care anymore—this is the coin for you!",
-    "image": "https://www.citypng.com/public/uploads/preview/funny-beluga-meme-cat-hd-transparent-background-735811696675541naaswhla0k.png",
-    "attributes": [
-      {
-        "trait_type": "Mood",
-        "value": "Chaotic"
-      },
-      {
-        "trait_type": "Purpose",
-        "value": "None"
-      }
-    ],
-    "properties": {
-      "files": [
-        {
-          "uri": "https://www.citypng.com/public/uploads/preview/funny-beluga-meme-cat-hd-transparent-background-735811696675541naaswhla0k.png",
-          "type": "image/png"
-        }
-      ],
-      "category": "image",
-      "creators": [
-        {
-          "address": "HBQCCVAiyahSkSugTdiXwFjEw4oHVambTQjT7Yzp2nPE",
-          "share": 100
-        }
-      ]
-    }
+    "description": "PALM TREES ARE LIFE.",
+    "image": "https://raw.githubusercontent.com/x8x8x8x8x8x/meme/main/PALM.jpg"
+
   }
+  
