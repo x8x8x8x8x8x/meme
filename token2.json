@@ -1,8 +1,20 @@
-{
-    "name": "PALM TREES",
-    "symbol": "PALM",
-    "description": "PALM TREES ARE LIFE.",
-    "image": "https://orange-imperial-blackbird-392.mypinata.cloud/ipfs/bafkreiglcyzeb2ar5tst5eqhnxxjdhke5z3uimknjj7leirjhv622c673e"
 
+{
+  "name": "PALM TREES",
+  "symbol": "PALM",
+  "description": "A tropical meme coin that brings the beach vibes to Solana!",
+  "image": "https://orange-imperial-blackbird-392.mypinata.cloud/ipfs/bafkreiglcyzeb2ar5tst5eqhnxxjdhke5z3uimknjj7leirjhv622c673e",
+  "attributes": [
+    { "trait_type": "Vibe", "value": "Chill" },
+    { "trait_type": "Location", "value": "Beach" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://orange-imperial-blackbird-392.mypinata.cloud/ipfs/bafkreiglcyzeb2ar5tst5eqhnxxjdhke5z3uimknjj7leirjhv622c673e", "type": "image/png" }
+    ],
+    "category": "image",
+    "creators": [
+      { "address": "5pT6FrsQvkPP8eXAqmpttS4byzvJjHgqABc3nmxCupeF", "share": 100 }
+    ]
   }
-  
+}
