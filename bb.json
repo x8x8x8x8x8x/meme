@@ -1,0 +1,20 @@
+
+{
+  "name": "Banana Berry",
+  "symbol": "BB",
+  "description": "A tropical meme coin that brings the tropical beach island vibes to Solana!",
+  "image": "https://orange-imperial-blackbird-392.mypinata.cloud/ipfs/bafkreiglcyzeb2ar5tst5eqhnxxjdhke5z3uimknjj7leirjhv622c673e",
+  "attributes": [
+    { "trait_type": "Vibe", "value": "Chill" },
+    { "trait_type": "Location", "value": "Beach" }
+  ],
+  "properties": {
+    "files": [
+      { "uri": "https://orange-imperial-blackbird-392.mypinata.cloud/ipfs/bafkreiglcyzeb2ar5tst5eqhnxxjdhke5z3uimknjj7leirjhv622c673e", "type": "image/png" }
+    ],
+    "category": "image",
+    "creators": [
+      { "address": "5pT6FrsQvkPP8eXAqmpttS4byzvJjHgqABc3nmxCupeF", "share": 100 }
+    ]
+  }
+}
